@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "192.168.30.1"
+
+[Tank1]
+Tank1 = "192.168.1.111"
+
+[Tank2]
+Tank2 = "192.168.2.123"
+
